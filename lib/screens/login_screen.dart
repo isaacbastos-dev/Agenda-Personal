@@ -6,6 +6,8 @@ import 'package:horas_v3/screens/reset_password_modal.dart';
 
 import '../services/auth_service.dart';
 
+// Testando fluxo com Git
+
 class LoginScreen extends StatelessWidget {
   LoginScreen({super.key});
 
